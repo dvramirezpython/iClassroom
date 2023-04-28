@@ -1,2 +1,2 @@
 # iClassroom
-Research project aboutmeasure students' engangement in a classroom
+Research project about measuring students' engangement in a classroom
