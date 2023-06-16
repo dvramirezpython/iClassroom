@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;400;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-main;
+  }
+  h1 {
+    @apply text-4xl
+  }
+}
+
+
+@layer components {
+  .btn-admin {  /* Used in nav-link */
+    @apply py-2 px-4 text-white text-xl rounded-lg hover:text-light-blue focus:outline-none;
+  } 
+  .btn-dropdown{  /* Used in nav-link */
+    @apply py-2 px-4 text-white text-xl rounded-lg;
+  }
+  .btn-admin-selected { /* Used in nav-link */
+    @apply py-2 px-4 text-orange font-bold  text-xl rounded-lg;
+  }
+  .btn-admin-forms {
+    @apply py-2 px-4 rounded-lg bg-light-blue text-white hover:bg-dark-blue
+  }
+  .btn-admin-forms-back {
+    @apply py-2 px-4 rounded-lg bg-gray-300 text-black hover:bg-orange
+  }
+  .input {
+    @apply border border-gray-300 text-gray-900 text-lg rounded-sm block px-2.5 w-4/5
+  }
+  .edit-container {
+    @apply bg-gray-100 mx-5 my-3 h-fit shadow-xl px-3 py-3 w-4/5 sm:w-4/5 lg:w-1/2 mx-auto
+  }
+  .alert-blue {
+    @apply bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py-3
+  }
+}
+
+
+
+
