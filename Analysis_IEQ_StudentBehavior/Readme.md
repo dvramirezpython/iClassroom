@@ -1,7 +1,5 @@
 # Statistical analyses between Indoor Environmental Quality factors and students' behavioral and emotional variables (engagement, attention, and interaction)
 
-> Students' variables are estimated using Valdes-Ramirez et al. (2026) and Valdes-Ramirez et al. (2023)
->
 > Indoor Environmental Quality factors are measured using Valdes-Ramirez et al. (2025)
 >
 > Students' Attention is estimated using Valdes-Ramirez et al. (2023)
