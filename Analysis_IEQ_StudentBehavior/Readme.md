@@ -10,13 +10,14 @@
 >
 > Dataset and source code are freely available and can be used for research purposes.
 
-1. [Loading dataset and libraries](#1)
-2. [Preprocessing data](#2)
-3. [Time series and violin plots](#3)
-4. [Correlation analysis](#4)
-5. [Cross-Correlation Function analysis](#5)
-6. [Time-Varying Granger Causality tests](#6)
-7. [Independence analysis with categorized variables](#7)
+__Index of the Jupyter Notebook__
+1. Loading dataset and libraries
+2. Preprocessing data
+3. Time series and violin plots
+4. Correlation analysis
+5. Cross-Correlation Function analysis
+6. Time-Varying Granger Causality tests
+7. Independence analysis with categorized variables
 
 ### Referenced works
 
